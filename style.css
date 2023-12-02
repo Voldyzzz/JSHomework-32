@@ -1,0 +1,21 @@
+.voting-block {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.voting-block__vote-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.smile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.counter {
+  font-size: 28px;
+}
